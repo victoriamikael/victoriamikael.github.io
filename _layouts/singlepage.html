@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+{%- include snippets/assign.html
+  target = site.data.variables.default.page.sharing
+  source0=layout.sharing source1=page.sharing -%}
+{%- assign _sharing = __return -%}
+
+<div class="layout--article">
+  <div class="article__content" itemprop="articleBody">{{ content }}</div>
+
+
+  <div class="d-print-none">
+    {%- include article-footer.html -%}
+  </div>
+
+</div>
+
