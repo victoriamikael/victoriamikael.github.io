@@ -27,4 +27,4 @@ Där kan du gå in se vad vi skulle vilja ha och bocka av det du köpt.
 
 ![Blad](assets/images/blad.png){:.image.image--xs}
 
-För vi vet, att för dem som älskar Gud samverkar allt till det bästa, för dem som är kallade efter hans beslut.
+Vi vet att för dem som älskar Gud samverkar allt till det bästa, för dem som är kallade efter hans beslut.
