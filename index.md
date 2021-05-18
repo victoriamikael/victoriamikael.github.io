@@ -9,7 +9,7 @@ key: page-about
 ![Victoria & Mikael](assets/images/VictoriaMikael.png)
 
 ### Nu gifter vi oss!
-Välkommen på vårt bröllop
+Välkommen på vårt bröllop!
 
 ### Plats
 
