@@ -5,6 +5,8 @@ footer: false
 text_skin: "chocolate"
 key: page-newpage
 ---
+<div style="float: right"><a href="/english.html">English</a></div>
+{::options parse_block_html="true" /}
 
 ![Victoria & Mikael](assets/images/VictoriaMikael.png)
 
@@ -67,6 +69,15 @@ Förslag på tillbehör är
 - Smycken
 - Handväska
 - Finskor
+
+### Övernattning
+För gäster som är i behov av övernattning är ett både smidigt och prisvärt
+alternativ att bo på Nyhemsgården. Den ligger ca 8 minuter bort med bil och
+de tar SEK 210 per natt och säng. Täcke och kudde finns på plats, man tar
+med egna lakan.
+
+Om ni är intresserad av att bo på Nyhem behöver ni höra av er till Mikael
+Swetzén den 12 augusti på telefon 0733-499328.
 
 ![Ringar](assets/images/ringar.png){:.image.image--xs}
 
