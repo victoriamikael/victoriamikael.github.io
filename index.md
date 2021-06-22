@@ -8,14 +8,25 @@ key: page-about
 
 ![Victoria & Mikael](assets/images/VictoriaMikael.png)
 
-### Nu gifter vi oss!
+### Vi ska gifta oss!
+
 Välkommen på vårt bröllop!
+
+Här på hemsidan kan du nu anmäla dig till bröllopet
+och snart kommer det även dyka upp fler spännande
+saker och viktig info kring bröllopet,
+så missa inte att komma tillbaka snart igen.
 
 ### Plats
 
 Vigsel och fest är på Näs Herrgård i Mullsjö.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2688.967822294081!2d13.777206716154385!3d57.86186353483952!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465a625cc797b385%3A0x8d9c1c9619b06de5!2zTsOkcyBIZXJyZ8OlcmQ!5e1!3m2!1sen!2sse!4v1621153274421!5m2!1sen!2sse" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+### Önskelista
+
+Vi har en [önskelista](https://onskelista.se/w/brollopsgavor-3) där vi kommer fylla på
+mer efterhand.
 
 ![Ringar](assets/images/ringar.png){:.image.image--xs}
 
