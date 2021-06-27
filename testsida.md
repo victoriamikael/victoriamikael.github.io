@@ -1,4 +1,10 @@
-
+---
+layout: singlepage
+header: false
+footer: false
+text_skin: "chocolate"
+key: page-test
+---
 ![Victoria & Mikael](assets/images/VictoriaMikael.png)
 
 ### Vi ska gifta oss!
