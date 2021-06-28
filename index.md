@@ -3,7 +3,7 @@ layout: singlepage
 header: false
 footer: false
 text_skin: "chocolate"
-key: page-about
+key: page-newpage
 ---
 
 ![Victoria & Mikael](assets/images/VictoriaMikael.png)
@@ -17,6 +17,25 @@ och snart kommer det även dyka upp fler spännande
 saker och viktig info kring bröllopet,
 så missa inte att komma tillbaka snart igen.
 
+### Vår story
+Vår gemensamma resa började i slutet på 2018 när vi samåkte till Norge för
+att båda medverka i TV. Vi kände inte varandra sen innan men våra samtal
+flöt på och det blev ganska tydligt att vi blev inspirerande av att prata med
+varandra. Dagarna i tv-studion var intensiva så det var inte förens på
+hemresan som samtalen djupnade och vi kunde se mer av varandra. Det
+blev klart för oss båda att vi hade en gemensam längtan. Vi längtade efter
+mer av Jesu närvaro och att se Honom för den Han verkligen är. Denna
+längtan ledde oss närmre varandra och vi började ta upp mer kontakt med
+varandra, en kontakt som växte sig starkare framåt våren. Sommaren gick
+och längtan efter varandra växte. Funderingar kring att våga öppna våra
+hjärtan kom ikapp oss och den 13 oktober blev vi tillsammans. Den 19 juli
+förra året gick Mikael ner på knä vid Korset i Hassela och Victoria sa ja. Nu
+längtar vi efter att bli man och hustru.
+
+Victoria & Mikael
+
+<iframe width="100%" src="https://www.youtube.com/embed/pqWiHZLRWGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Plats
 
 Vigsel och fest är på Näs Herrgård i Mullsjö.
@@ -27,6 +46,27 @@ Vigsel och fest är på Näs Herrgård i Mullsjö.
 
 Vi har en [önskelista](https://onskelista.se/w/brollopsgavor-3) där vi kommer fylla på
 mer efterhand.
+
+### Klädkod - Kavaj
+För herrar innebär kavaj att man bär
+- Kostym i valfri färg
+- Skjorta i valfri färg
+- Skor i valfri färg
+- Matchande slips eller fluga
+
+För damer innebär kavaj att man bär
+- En finare klänning än till vardags i valfri färg som kan vara allt ifrån
+mididress till maxidress.
+
+Eller
+
+- Kjol och kavaj
+
+Förslag på tillbehör är
+- Sjal
+- Smycken
+- Handväska
+- Finskor
 
 ![Ringar](assets/images/ringar.png){:.image.image--xs}
 
