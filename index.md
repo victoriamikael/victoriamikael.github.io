@@ -19,6 +19,14 @@ och snart kommer det även dyka upp fler spännande
 saker och viktig info kring bröllopet,
 så missa inte att komma tillbaka snart igen.
 
+### Viktig uppdatering om bröllopet
+ 
+Vi har inväntat besked kring restriktioner och igår kom beskedet att restriktioner kring privat fest kommer att tas bort först den 29 september.
+Just nu gäller för privat fest att man får vara 50 personer per lokal eller utrymme, till detta räknas även tält. Detta innebär att bröllopsmiddagen inte kommer kunna hållas i ladan som det först var tänkt. Vi har därför landat i lösningen att ha middagen i tält med plats för max 50 personer per tält. Detta innebär att vi kommer att resa 4 tält på grönområdet utanför ladan och duka för middagen i dessa. Vi ser till att det finns uppvärmning i tältet utfall att det skulle bli kallare väder men det kan även vara bra att ha med sitt lite varmare kläder för att vara på den säkra sidan, särskilt om man vet med sig att man lättare blir frusen. Festen kommer i och med att vi flyttat till tält att bli lite kortare än vi tidigare tänkt, vi avrundar kvällen runt klockan 21, senast 21:30. Vigseln och fikat efteråt kommer att hållas som vi planerat för sedan tidigare. Vi hoppas ni förstår att vi landat i detta beslut eftersom vi vill att ni alla ska kunna vara med på bröllopsfesten och detta är ett sätt att möjliggöra detta och samtidigt hålla oss till de restriktioner som gäller just nu. På bröllopet kommer det även att informeras om hur vi genomför bröllopsdagen på ett så säkert och ansvarsfullt sätt som vi kan.
+ 
+Vi ser så mycket fram emot att se er på Näs Herrgård den 18 september!
+Kramar från Victoria och Mikael
+ 
 ### Vår story
 Vår gemensamma resa började i slutet på 2018 när vi samåkte till Norge för
 att båda medverka i TV. Vi kände inte varandra sen innan men våra samtal
